@@ -43,7 +43,7 @@ python -m venv venv
 .\venv\Scripts\activate
 ```
 
-Install the required dependencies: ( ensure your cd is 
+Install the required dependencies: ( ensure your cd is under the yolov5 folder)
 ```
 pip install -r requirements.txt
 ```
