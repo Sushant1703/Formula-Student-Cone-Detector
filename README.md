@@ -24,9 +24,10 @@ Pip and a virtual environment (recommended)
 **Installation**
 
 Clone the repository:
-
+```
 git clone https://github.com/Sushant1703/Formula-Student-Cone-Detector.git
 cd Formula-Student-Cone-Detector/
+```
 
 **Create and activate a virtual environment:**
 
