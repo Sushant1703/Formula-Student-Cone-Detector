@@ -5,8 +5,6 @@ This repository contains a YOLOv5 model fine-tuned to detect colored cones for t
 
 Here is a quick look at how the model performs on sample test images.
 
-(You can add your inference_examples images here for a great visual showcase! Just make sure the image paths are correct.)
-
 **Original vs. Prediction**
 | Original | Prediction |
 |---|---|
