@@ -26,7 +26,7 @@ Pip and a virtual environment (recommended)
 Clone the repository:
 ```
 git clone https://github.com/Sushant1703/Formula-Student-Cone-Detector.git
-cd Formula-Student-Cone-Detector/
+cd Formula-Student-Cone-Detector/yolov5/
 ```
 
 **Create and activate a virtual environment:**
@@ -43,7 +43,7 @@ python -m venv venv
 .\venv\Scripts\activate
 ```
 
-Install the required dependencies:
+Install the required dependencies: ( ensure your cd is 
 ```
 pip install -r requirements.txt
 ```
